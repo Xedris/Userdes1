@@ -3,7 +3,7 @@
 <head>
 
 <style>
-body {background-color: 30802E;}
+body {background-color: slateblue;}
 h1   {color: blue;}
 p    {color: Cyan;}
 </style>
