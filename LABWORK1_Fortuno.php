@@ -2,6 +2,7 @@
 <html>
 <head>
 <title><b> JUST CALL ME AIDS </b> </title>
+<a href="new-2.php">My Likes and dislikes</a>
 
 </head>
 <body style="background-color:Black;">
