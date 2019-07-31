@@ -42,5 +42,7 @@ but then I started to get used to it until it became my nickname till now. It's 
 <h5>Emails</h5>
 <p14style="color:Lightsalmon">Facebook- Adrian Christian Fortuno</p14>
 
+  
+<a href="new-2.php">My Likes and dislikes</a>
 </body>
 </html>
