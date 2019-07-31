@@ -3,7 +3,10 @@
 <head>
 
 <style>
-body {background-color: slateblue;}
+  
+<a href="LABWORK1_Fortuno.php">My Labwork 1</a>
+<a href="new-2.php">My Likes and dislikes</a>
+body {background-color: LightGray;}
 h1   {color: blue;}
 p    {color: Cyan;}
 </style>
