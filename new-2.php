@@ -19,7 +19,9 @@ p    {color: red;}
 <body >
 <div class="jumbotron text-center"
 <h1 style="color:Red;"> The things that make Me "Me"</h1>
+<br>
 <p4 style="color:Gold">The lists here will show you people what I like and dislike and maybe you might be able to understand what type of person I am.</p4>
+  
 </div>
 <h2></h2>
 <div class="container">
