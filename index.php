@@ -8,7 +8,7 @@
 <a href="new-2.php">My Likes and dislikes style="color:Moccasin;"</a>
 body {background-color: Darkgreen;}
 h1   {color: blue;}
-p    {color: Cyan;}
+p    {color: lightskyblue;}
 </style>
 
 </head>
