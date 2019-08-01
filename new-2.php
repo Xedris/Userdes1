@@ -9,12 +9,22 @@ body {background-color: Black;}
 h1   {color: blue;}
 p    {color: red;}
 </style>
-
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body >
+<div class="jumbotron text-center"
 <h1 style="color:Red;"> The things that make Me "Me"</h1>
 <p4 style="color:Gold">The lists here will show you people what I like and dislike and maybe you might be able to understand what type of person I am.</p4>
+</div>
 <h2></h2>
+<div class="container">
+  <div class"row">
+    <div class="col-sm-4">
 <p1 style="color:Blue">Likes </p1>
 <ul>
     <li style="color:Blue">Games</li>
@@ -63,6 +73,8 @@ p    {color: red;}
             <li>RWBY</li>
         </ol>    
 </ul>
+    </div>
+    <div class="col-sm-4">
 <p2 style="color:Green">Dislikes</p2>
 <ul style="color:Green">
     <li style="color:Green">Personalities</li>
@@ -83,5 +95,8 @@ p    {color: red;}
             <li>People telling me to tie my shoes</li>
         </ol>
 </ul>
+     </div>
+   </div>
+</div>
 </body>
 </html>
