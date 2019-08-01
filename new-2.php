@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<a href="index.php">My Likes and dislikes </a>
+<a href="index.php">HOMEPAGE</a>
 <a href="LABWORK1_Fortuno.php">My Labwork 1</a>
 
 <style>
