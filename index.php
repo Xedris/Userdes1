@@ -6,7 +6,7 @@
   
 <a href="LABWORK1_Fortuno.php">My Labwork 1</a>
 <a href="new-2.php">My Likes and dislikes </a>
-body {background-color: Darkgreen;}
+body {background-color: darkgreen;}
 h1   {color: blue;}
 p    {color: lightskyblue;}
 </style>
