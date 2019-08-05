@@ -4,7 +4,7 @@
 <title><b> JUST CALL ME AIDS </b> </title>
 <a href="index.php">HOMEPAGE</a>
 <a href="new-2.php">My Likes and dislikes</a>
-
+<a href="Activity2.php">Activity2</a>
 </head>
 <body style="background-color:Black;">
 <h1 style="color:Lime;"> Just call me Aids</h1>
