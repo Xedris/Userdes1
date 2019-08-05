@@ -3,6 +3,7 @@
 <head>
 <a href="LABWORK1_Fortuno.php">My Labwork 1</a>
 <a href="new-2.php">My Likes and dislikes </a>
+<a href="Activity2.php">My Favorite apps</a>
 <style>
 
 body {background-color: darkgreen;}
