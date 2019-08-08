@@ -14,8 +14,8 @@
 the elevator would be able to traverse each floor. The solution would be having 3 main gears in the system, each gear would have to 
 correspond with a number placement. 1 gear would be for the ones position, the 2nd gear for the tens position and the last gear would 
 be for the hundreds position and the 1000th floor..</p1>
-<break>
-<break>
+</break>
+</break>
 <p2 style="color:RosyBrown;">For how people would choose which floor to go to, instead of the conventional buttons for each floor because 
 it would be a hassle to have 1000 buttons for each floor, it would be more convenient to install a digital numpad for use. The digital 
 numpad would be easier to use in the elevator allowing people to just input the floor number on the touchpad and if they decide not to
