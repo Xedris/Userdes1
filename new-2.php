@@ -4,6 +4,7 @@
 <a href="index.php">HOMEPAGE</a>
 <a href="LABWORK1_Fortuno.php">My Labwork 1</a>
 <a href="Activity2.php">My Favorite Apps</a>
+<a href="Reflections.php">Reflections</a>
 
 
 <style>
