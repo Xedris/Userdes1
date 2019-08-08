@@ -6,6 +6,8 @@
 <a href="new-2.php">My Likes and dislikes</a>
 <a href="LABWORK1_Fortuno.php">My Labwork 1</a>
 <a href="Reflections.php">Reflections</a>
+<a href="Activity3.php">1000 Floor Elevator</a>
+
 
 </head>
 <body style="background-color:Black;">
