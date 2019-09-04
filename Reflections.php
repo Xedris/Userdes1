@@ -34,7 +34,33 @@ something since it had no user manual to use but once we got it to work it was a
 <p4 style="color:MediumOrchid;">After the lesson when talking about personas and UI I really did not care much about what went on in the UI
 since I only cared about if it was useful or not. Even now I only care if the UI is simple enough to use and navigate for me.</p4>
 
+  
+<h5 style="color:MediumOrchid;"> Reflection 5</h5>
+<p5 style="color:MediumOrchid;">The entire SOCIT fest in its entirety can be summed up for me in one word and that is disappointing. 
+  It’s disappointing because most of the activities we did was just seminar after seminar and even though some were ok the rest was 
+  just not interesting to me to grasp what was even said. As for the only other event I was, it was the Tekken Tournament hosted by 
+  Gaming Genesis, now that was an event I was excited for since I love to watch Fighting Game Competitions, and because I can see 
+  who my competition could or would be for the Tekken tournament on APC week.
+  The events that I was involved in was the Tekken tournament where I was a watcher for it I’m a part of the gaming genesis org. 
+  Mainly my main role there was to watch over the place and to make sure the equipment doesn’t get broken. The second event I was in was 
+  SOCIT night where I helped in preparing the event area in creating props for it since I am a part of the JPCS org.
+  The event that I liked the most was the Tekken tournament by Gaming Genesis, since I love video games and watching fighting game 
+  tournaments is one of my favorite things to do. The other events need better improvement especially the seminar’s, having seminar
+  after seminar is not a fun activity to do. For next year’s SOCIT week, I just want other activities other than seminars because 
+  they become boring and repetitive.
+.</p5>
 
+<h6 style="color:MediumOrchid;"> Reflection 6</h6>
+<p6 style="color:MediumOrchid;">The first half of USERDES was not what I was expecting since I expected more web designing or UI design 
+  by using websites or photoshop, and not by doing written activities mostly. The main Challenges I encountered were the LABWORKS since 
+  my laptop is not optimized and I had to ask help from my classmates. Number 2 made me sad since it just makes me remember that I want 
+  a new laptop, but I have to save enough money for it and that will take a while. My main expectation for the finals is just to lessen
+  the amount of activities that we do back to back. The only thing I can say that needs improvement is that activities should not be
+  put back to back. Regarding the grades a lot of us would not be satisfied if Rosento gets a high grade, the reason is that he’s 
+  either always late or absent to class and that he does not help us in the Project and he was absent during the presentation and 
+  if he gets a high grade even when he was absent there I will be really mad about that.</p6>
+
+  
 
 </body>
 </html>
