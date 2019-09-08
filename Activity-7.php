@@ -9,7 +9,7 @@
 <a href="Activity3.php">1000 Floor Elevator</a>
 
 </head>
-<img src="Activity.7.png" alt="You Are Hereby">
+<img src="Activity.7.jpg" alt="You Are Hereby">
 
 
 </body>
