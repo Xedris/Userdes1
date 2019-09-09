@@ -11,8 +11,8 @@
 
 </head>
 <body style="background-color:Black;">
-  <h0><img src="Satanael.jpg" alt="Girl in a jacket" width="150" height="200"></h0>
-<h1 style="color:Lime;"> 1st application</h1>
+  <h1><img src="Satanael.jpg" alt="Girl in a jacket" width="200" height="300"></h1>
+<h2 style="color:Lime;"> 1st application</h2>
 <p1 style="color:Lime;"> I have two favorite applications, the first would have to be game master 5 because it’s the main
 tool I use when I play with my friends. I like using this app because it has all the tools I need to create
 and control our DnD games. It has all the items and rules already installed in it and it allows us to keep
