@@ -8,7 +8,7 @@
 <a href="Reflections.php">Reflections</a>
 <a href="Activity-7.php">Invitation</a>
 </head>
-<body style="background-color:Black;">
+<body background="SinDTDMC5.jpg">
 <h1 style="color:RosyBrown;"> 1st application</h1>
 <p1 style="color:RosyBrown;">The first thing I would do to create an Elevator for a building with 1000 floors would be to think of how 
 the elevator would be able to traverse each floor. The solution would be having 3 main gears in the system, each gear would have to 
