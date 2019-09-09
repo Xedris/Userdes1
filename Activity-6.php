@@ -10,10 +10,7 @@
 <a href="Activity-7.php">Invitation</a>
 
 </head>
-<body>
-  background-image: url("Satanael.jpg");
-        background-repeat:no-repeat;
-       background-size:cover;
+<body style="background-color:Black;">
 <h1><img src="Satanael.jpg" alt="Girl in a jacket" width="300" height="400"></h1>
 <h2 style="color:Lime;"> Persona 1</h2>
 <p1 style="color:Lime;"> Dwayne is a student here in Asia Pacific College. He spends lots of his time working on his projects in 
