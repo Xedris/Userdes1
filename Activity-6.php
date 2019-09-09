@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title><b> Personas </b> </title>
-<img src="Satanael.jpg" alt="Girl in a jacket" width="500" height="600">
+  <title><b> Personas </b> </title>
 <a href="index.php">HOMEPAGE</a>
 <a href="new-2.php">My Likes and dislikes</a>
 <a href="LABWORK1_Fortuno.php">My Labwork 1</a>
@@ -12,7 +11,7 @@
 
 </head>
 <body style="background-color:Black;">
-<img src="Satanael.jpg" alt="Girl in a jacket" width="150" height="200">
+  <h0><img src="Satanael.jpg" alt="Girl in a jacket" width="150" height="200"></h0>
 <h1 style="color:Lime;"> 1st application</h1>
 <p1 style="color:Lime;"> I have two favorite applications, the first would have to be game master 5 because it’s the main
 tool I use when I play with my friends. I like using this app because it has all the tools I need to create
