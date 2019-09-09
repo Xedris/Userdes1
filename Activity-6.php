@@ -21,6 +21,7 @@ Dwayne asks one of his professors, Sir Isaac, about the lab’s hours, to which 
   set schedules and activities. He finds a slot that fits his schedule, and arrives with his friends at the appointed time to see some 
   others in the room. They find their reserved place and begin gaming.
 </p1>
+  <img src="Persona 1.jpg" alt="Dwayne" width="500" height="600">
 <h3 style="color:Lime;"> Persona 2</h3>
   <p2 style="color:Lime;"> Sir Isaac is a Game Development Professor here at Asia Pacific College who also happens to be one of the founding members of 
     Gaming Genesis. Aside from spending time gaming with his students, and moderating the activities in the room, he also uses the 
@@ -32,6 +33,7 @@ One of his irregular students, Dwayne, sees the lecture-based reservation while 
     the room will be reserved entirely for that period. He accepts the case and is thankful that he was informed well ahead of time to 
     choose another schedule.
   </p2>
+  <img src="Persona 2.jpg" alt="Isaac" width="500" height="600">
 <h4 style="color:Lime;"> Persona 2</h4>
  <p3 style="color:Lime;"> Miss Mara is an employee here at Asia Pacific College as part of the ITRO. Aside from managing the websites and other systems 
    that keep the school running, she is also partly responsible for watching over the borrowed equipment and peripherals of the school.
@@ -43,6 +45,7 @@ She informs Isaac, who is one of the head moderators of the room. Isaac, who is 
    regarding the matter. He then finds out that Dwayne had mistakenly dropped the controller when heading out, but didn’t think the 
    damage too severe. Seeing the case, Dwayne makes the appropriate payments for repairs.
 
-  </p3>  
+  </p3>
+  <img src="Persona 3.jpg" alt="Mara" width="500" height="600">
 </body>
 </html>
