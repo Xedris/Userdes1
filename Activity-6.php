@@ -21,7 +21,7 @@ Dwayne asks one of his professors, Sir Isaac, about the lab’s hours, to which 
   set schedules and activities. He finds a slot that fits his schedule, and arrives with his friends at the appointed time to see some 
   others in the room. They find their reserved place and begin gaming.
 </p1>
-  <img src="Persona 1.jpg" alt="Dwayne" width="500" height="600">
+  <p4> <img src="Persona 1.jpg" alt="Dwayne" width="500" height="600"></p4>
 <h3 style="color:Lime;"> Persona 2</h3>
   <p2 style="color:Lime;"> Sir Isaac is a Game Development Professor here at Asia Pacific College who also happens to be one of the founding members of 
     Gaming Genesis. Aside from spending time gaming with his students, and moderating the activities in the room, he also uses the 
