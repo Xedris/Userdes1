@@ -6,6 +6,7 @@
 <a href="new-2.php">My Likes and dislikes</a>
 <a href="LABWORK1_Fortuno.php">My Labwork 1</a>
 <a href="Reflections.php">Reflections</a>
+<a href="Activity-6.php">Persona</a>
 <a href="Activity-7.php">Invitation</a>
 </head>
 <body background="SinDTDMC5.jpg">
