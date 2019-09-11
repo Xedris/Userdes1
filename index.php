@@ -12,7 +12,7 @@
 
 <style>
 
-<body background="SinDTDMC5.jpg">
+<body background="70271672_10220712360306752_3363438496369868800_o.jpg">
 h1   {color: blue;}
 p    {color: lightskyblue;}
 </style>
