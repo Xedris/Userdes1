@@ -10,7 +10,7 @@
 <a href="Activity-6.php">Persona</a>
 <a href="Activity-7.php">Invitation</a>
 </head>
-<body background="70271672_10220712360306752_3363438496369868800_o.jpg">
+<body style="background-color:Black;">
 <h1 style="color:Lime;"> Just call me Aids</h1>
 <p1 style="color:Lime;"> 
 Yes that is my nickname I've had it with me for a couple years now ever since grade 8. At first it really annoyed me
