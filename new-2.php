@@ -81,6 +81,8 @@ p    {color: red;}
         </ol>    
 </ul>
     </div>
+    <div class="container">
+  <div class"row">
     <div class="col-sm-4">
 <p2 style="color:Green">Dislikes</p2>
 <ul style="color:Green">
