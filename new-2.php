@@ -48,8 +48,8 @@ p    {color: red;}
             <li>Hunger Games</li>
             <li>Metro</li>
         </ol>
-    <li style="color:White">Food</li>
-        <ol style="color:White">
+    <li style="color:CornflowerBlue">Food</li>
+        <ol style="color:CornflowerBlue">
             <li>Sushi</li>
             <li>Pizza</li>
             <li>Pasta</li>
