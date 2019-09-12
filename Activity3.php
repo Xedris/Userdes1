@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title><b> My Favorite Applications </b> </title>
+<title><b> 1000 ELEVATORS!!!! </b> </title>
 <a href="index.php">HOMEPAGE</a>
 <a href="new-2.php">My Likes and dislikes</a>
 <a href="LABWORK1_Fortuno.php">My Labwork 1</a>
@@ -10,13 +10,13 @@
 <a href="Activity-7.php">Invitation</a>
 </head>
 <body background="70271672_10220712360306752_3363438496369868800_o.jpg">
-<h1 style="color:RosyBrown;"> 1st application</h1>
-<p1 style="color:RosyBrown;">The first thing I would do to create an Elevator for a building with 1000 floors would be to think of how 
+<h1 style="color:RosyBrown;"> THE ELEVATOR</h1>
+<p1 style="color:CornflowerBlue;">The first thing I would do to create an Elevator for a building with 1000 floors would be to think of how 
 the elevator would be able to traverse each floor. The solution would be having 3 main gears in the system, each gear would have to 
 correspond with a number placement. 1 gear would be for the ones position, the 2nd gear for the tens position and the last gear would 
 be for the hundreds position and the 1000th floor..</p1>
   <h2></h2>
-<p2 style="color:RosyBrown;">For how people would choose which floor to go to, instead of the conventional buttons for each floor because 
+<p2 style="color:CornflowerBlue;">For how people would choose which floor to go to, instead of the conventional buttons for each floor because 
 it would be a hassle to have 1000 buttons for each floor, it would be more convenient to install a digital numpad for use. The digital 
 numpad would be easier to use in the elevator allowing people to just input the floor number on the touchpad and if they decide not to
 go to that floor and want to change it, there would be a second screen right next to numpad that would show a list of the floors that 
@@ -25,7 +25,7 @@ would appear asking if they want to cancel that floor. As for people who want to
 floor the elevator is on there would be another screen on the outside below the elevator call buttons, which would show what direction
 the elevator is going, what floor it is currently on and which floors have been inputted and what the next floor is.</p2>
   <h3></h3>
-<p3 style="color:RosyBrown;"> Since the elevator is for a building with 1000 floors it’s obvious that one elevator alone is not enough
+<p3 style="color:CornflowerBlue;"> Since the elevator is for a building with 1000 floors it’s obvious that one elevator alone is not enough
 to accommodate the entire building, I would have 5 different sets of elevators situated in the North, South, East and West side of the 
 building and the last set of elevators would be in the very center of the building. Each set is equivalent to 7 elevators so in all there
 would be 35 elevators in the entire Building. As for the elevator itself, instead of the usual elevator used for malls and condominiums,
