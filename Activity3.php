@@ -9,7 +9,9 @@
 <a href="Activity-6.php">Persona</a>
 <a href="Activity-7.php">Invitation</a>
 </head>
-<body background="70271672_10220712360306752_3363438496369868800_o.jpg">
+<body   background: url(70271672_10220712360306752_3363438496369868800_o.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;>
 <h1 style="color:RosyBrown;"> THE ELEVATOR</h1>
 <p1 style="color:CornflowerBlue;">The first thing I would do to create an Elevator for a building with 1000 floors would be to think of how 
 the elevator would be able to traverse each floor. The solution would be having 3 main gears in the system, each gear would have to 
