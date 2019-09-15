@@ -11,10 +11,10 @@
 <a href="Activity-7.php">Invitation</a>
 </head>
 <h1>CERTIFICATE 1</h1>
-<h2><img src="cert1.jpg" alt="UX FOUNDATIONS: CONTENT STRATEGY"></h2>
+<h2><img src="cert 1.JPG" alt="UX FOUNDATIONS: CONTENT STRATEGY"></h2>
 <h3>Certificate 2</h3>
-<h4><img src="cert2.jpg" alt="INTERACTION DESIGN: PROJECTS AND PLATFORMS"></h4>
+<h4><img src="cert2.JPG" alt="INTERACTION DESIGN: PROJECTS AND PLATFORMS"></h4>
 <h5>CERTIFICATE 3</h5>
-<h6><img src="cert3.jpg" alt="UX FOUNDATIONS: INTERACTION DESIGN"></h6>
+<h6><img src="cert3.JPG" alt="UX FOUNDATIONS: INTERACTION DESIGN"></h6>
 </body>
 </html>
