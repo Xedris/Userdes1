@@ -8,6 +8,7 @@
 <a href="Reflections.php">Reflections</a>
 <a href="Activity-6.php">Persona</a>
 <a href="Activity-7.php">Invitation</a>
+<a href="UX-DESIGN-CERTIFICATES.php">Vid Certificates</a>
 </head>
 <body style="background-color:Black;">
 <h1 style="color:RosyBrown;"> THE ELEVATOR</h1>
