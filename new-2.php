@@ -8,7 +8,7 @@
 <a href="Activity3.php">1000 Floor Elevator</a>
 <a href="Activity-6.php">Persona</a>
 <a href="Activity-7.php">Invitation</a>
-
+<a href="UX-DESIGN-CERTIFICATES.php">Vid Certificates</a>
 <style>
 body {background-color: Black;}
 h1   {color: blue;}
