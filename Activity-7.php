@@ -8,6 +8,7 @@
 <a href="Reflections.php">Reflections</a>
 <a href="Activity3.php">1000 Floor Elevator</a>
 <a href="Activity-6.php">Persona</a>
+<a href="UX-DESIGN-CERTIFICATES.php">Vid Certificates</a>
 
 </head>
 <h1>You are Hereby Invited</h1>
