@@ -10,13 +10,13 @@
 <a href="Activity-6.php">Persona</a>
 <a href="Activity-7.php">Invitation</a>
 </head>
-<h1>3x3 Foundations</h1>
+<h>3x3 Foundations</h>
 <p2><img src="3x3 white and black.JPG" alt="3x3 foundations"></p2>
-<h3>The King of YOUTUBE</h3>
+<h>The King of YOUTUBE</h>
 <p4><img src="3x3 pictures.JPG" alt="The King Of YOUTUBE"></p4>
-<h5>4x4 Foundation</h5>
+<h>4x4 Foundation</h>
 <p6><img src="4x4 black and white.JPG" alt="4x4 Foundations"></p6>
-<h7>FATE GRAND ORDER</h7>
+<h>FATE GRAND ORDER</h>
 <p8><img src="4x4 pictures.JPG" alt="FATE GRAND ORDER"></p8>
 </body>
 </html>
