@@ -9,7 +9,7 @@
 <a href="Activity-6.php">Persona</a>
 <a href="Activity-7.php">Invitation</a>
 <a href="UX-DESIGN-CERTIFICATES.php">Vid Certificates</a>
-
+<a href="Grid.php">Grid Designs</a>
 
 <style>
 
