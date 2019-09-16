@@ -10,6 +10,7 @@
 <a href="Activity-6.php">Persona</a>
 <a href="Activity-7.php">Invitation</a>
 </head>
+<body>
 <h>3x3 Foundations</h>
 <p2><img src="3x3 white and black.JPG" alt="3x3 foundations"></p2>
 <h>The King of YOUTUBE</h>
