@@ -12,12 +12,12 @@
 </head>
 <body>
 <h>3x3 Foundations</h>
-<p2><img src="3x3 white and black.JPG" alt="3x3 foundations"></p2>
+<p><img src="3x3 white and black.JPG" alt="3x3 foundations"></p>
 <h>The King of YOUTUBE</h>
-<p4><img src="3x3 pictures.JPG" alt="The King Of YOUTUBE"></p4>
+<p><img src="3x3 pictures.JPG" alt="The King Of YOUTUBE"></p>
 <h>4x4 Foundation</h>
-<p6><img src="4x4 black and white.JPG" alt="4x4 Foundations"></p6>
+<p><img src="4x4 black and white.JPG" alt="4x4 Foundations"></p>
 <h>FATE GRAND ORDER</h>
-<p8><img src="4x4 pictures.JPG" alt="FATE GRAND ORDER"></p8>
+<p><img src="4x4 pictures.JPG" alt="FATE GRAND ORDER"></p>
 </body>
 </html>
