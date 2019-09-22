@@ -9,6 +9,7 @@
 <a href="Activity3.php">1000 Floor Elevator</a>
 <a href="Activity-6.php">Persona</a>
 <a href="Activity-7.php">Invitation</a>
+<a href="Grid.php">Grid Designs</a>
 </head>
 <h1>Certificate 1</h1>
 <p2><img src="cert 1.JPG" alt="UX FOUNDATIONS: CONTENT STRATEGY"></p2>
