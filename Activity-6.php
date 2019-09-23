@@ -14,7 +14,7 @@
 </head>
 <body background="Satanael.jpg">
   <h1> PERSONA!! </h1>
-<h2 style="color:Lime;"> Persona 1</h2>
+<h1 style="color:Lime;"> Persona 1</h1>
 <p1 style="color:Lime;"> Dwayne is a student here in Asia Pacific College. He spends lots of his time working on his projects in 
   his engineering class, and for the past few days, he’s been feeling rather loaded with work and exams. Now that exams are over, 
   he wants to spend some quality time with his friends after classes. 
@@ -25,7 +25,7 @@ Dwayne asks one of his professors, Sir Isaac, about the lab’s hours, to which 
   others in the room. They find their reserved place and begin gaming.
 </p1>
   <h5> <img src="Persona 1.jpg" alt="Dwayne" width="500" height="600"></h5>
-<h3 style="color:Lime;"> Persona 2</h3>
+<h1 style="color:Lime;"> Persona 2</h1>
   <p2 style="color:Lime;"> Sir Isaac is a Game Development Professor here at Asia Pacific College who also happens to be one of the founding members of 
     Gaming Genesis. Aside from spending time gaming with his students, and moderating the activities in the room, he also uses the 
     area for some of his classes when needed.
@@ -37,7 +37,7 @@ One of his irregular students, Dwayne, sees the lecture-based reservation while 
     choose another schedule.
   </p2>
   <h6><img src="Persona 2.jpg" alt="Isaac" width="500" height="600"></h6>
-<h4 style="color:Lime;"> Persona 2</h4>
+<h1 style="color:Lime;"> Persona 3</h1>
  <p3 style="color:Lime;"> Miss Mara is an employee here at Asia Pacific College as part of the ITRO. Aside from managing the websites and other systems 
    that keep the school running, she is also partly responsible for watching over the borrowed equipment and peripherals of the school.
 Mara happens to also be one of the early developers of the Game laboratory Reservation System, and regularly uses it to monitor 
