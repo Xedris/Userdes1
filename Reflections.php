@@ -35,8 +35,10 @@ something since it had no user manual to use but once we got it to work it was a
 
 <h4 style="color:MediumOrchid;"> Reflection 4</h4>
 <p4 style="color:MediumOrchid;">After the lesson when talking about personas and UI I really did not care much about what went on in the UI
-since I only cared about if it was useful or not. Even now I only care if the UI is simple enough to use and navigate for me.</p4>
-
+since I only cared about if it was useful or not. Even now I only care if the UI is simple enough to use and navigate for me, I prefer
+  a UI that is this way because simplicity is always the best when creating a navigation for public use. This is because it is easy to get
+  confused when the UI is packed with large amounts of info and items and it gets bogged down with to many add-ons.</p4>
+<img src="QUIZ 1.JPG" alt="You Are Hereby" style="width:500px;height:600px;">
   
 <h5 style="color:MediumOrchid;"> Reflection 5</h5>
 <p5 style="color:MediumOrchid;">The entire SOCIT fest in its entirety can be summed up for me in one word and that is disappointing. 
