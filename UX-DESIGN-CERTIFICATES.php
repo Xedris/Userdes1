@@ -13,9 +13,9 @@
 </head>
 <h1>Certificate 1</h1>
 <p2><img src="cert 1.JPG" alt="UX FOUNDATIONS: CONTENT STRATEGY"></p2>
-<h3>Certificate 2</h3>
+<h1>Certificate 2</h1>
 <p4><img src="cert2.JPG" alt="INTERACTION DESIGN: PROJECTS AND PLATFORMS"></p4>
-<h5>CERTIFICATE 3</h5>
+<h1>CERTIFICATE 3</h1>
 <p6><img src="cert3.JPG" alt="UX FOUNDATIONS: INTERACTION DESIGN"></p6>
 </body>
 </html>
