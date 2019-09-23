@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title><b> My Favorite Applications </b> </title>
+<title><b> INVITATION</b> </title>
 <a href="index.php">HOMEPAGE</a>
 <a href="new-2.php">My Likes and dislikes</a>
 <a href="LABWORK1_Fortuno.php">My Labwork 1</a>
