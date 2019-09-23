@@ -52,9 +52,9 @@ since I only cared about if it was useful or not. Even now I only care if the UI
   after seminar is not a fun activity to do. For next year’s SOCIT week, I just want other activities other than seminars because 
   they become boring and repetitive.
 .</p5>
-<img src="68741961_1159532210912244_5937637002177413120_n.jpg" alt="You Are Hereby">
-<img src="68824331_893030544385985_8899031405334364160_n.jpg" alt="You Are Hereby">
-<img src="68853843_488545965304425_6326106636502958080_n.jpg" alt="You Are Hereby">
+<img src="68741961_1159532210912244_5937637002177413120_n.jpg" alt="You Are Hereby" style="width:500px;height:600px;">
+<img src="68824331_893030544385985_8899031405334364160_n.jpg" alt="You Are Hereby" style="width:500px;height:600px;">
+<img src="68853843_488545965304425_6326106636502958080_n.jpg" alt="You Are Hereby" style="width:500px;height:600px;">
 
 <h6 style="color:MediumOrchid;"> Reflection 6</h6>
 <p6 style="color:MediumOrchid;">The first half of USERDES was not what I was expecting since I expected more web designing or UI design 
