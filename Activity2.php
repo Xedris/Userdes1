@@ -2,16 +2,16 @@
 <html>
 <head>
 <title><b> My Favorite Applications </b> </title>
-<a href="index.php">HOMEPAGE</a>
-<a href="new-2.php">My Likes and dislikes</a>
-<a href="LABWORK1_Fortuno.php">My Labwork 1</a>
+<a href="index.php"><font size="9">HOMEPAGE</font></a>
+<a href="new-2.php"><font size="9">My Likes and dislikes</font></a>
+<a href="LABWORK1_Fortuno.php"><font size="9">My Labwork 1</font></a>
 
-<a href="Activity3.php">1000 Floor Elevator</a>
-<a href="Activity-6.php">Persona</a>
-<a href="Activity-7.php">Invitation</a>
-<a href="Grid.php">Grid Designs</a>
-<a href="Reflections.php">Reflections</a>
-<a href="UX-DESIGN-CERTIFICATES.php">Vid Certificates</a>
+<a href="Activity3.php"><font size="9">1000 Floor Elevator</font></a>
+<a href="Activity-6.php"><font size="9">Persona</font></a>
+<a href="Activity-7.php"><font size="9">Invitation</font></a>
+<a href="Grid.php"><font size="9">Grid Designs</font></a>
+<a href="Reflections.php"><font size="9">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"><font size="9">Vid Certificates</font></a>
 
 
 </head>
@@ -55,5 +55,15 @@ have to plan your team and how to use them to their fullest. I also love the art
 game because they have all their own distinct way of looking. The story is also something that has
 interested me because it isn’t something normally seen.</p5><br>
  <p7><img src="FATE.jpg" alt="You Are Hereby" style="width:450px;height:400px;"></p7>
+<a href="index.php"><font size="9">HOMEPAGE</font></a>
+<a href="new-2.php"><font size="9">My Likes and dislikes</font></a>
+<a href="LABWORK1_Fortuno.php"><font size="9">My Labwork 1</font></a>
+
+<a href="Activity3.php"><font size="9">1000 Floor Elevator</font></a>
+<a href="Activity-6.php"><font size="9">Persona</font></a>
+<a href="Activity-7.php"><font size="9">Invitation</font></a>
+<a href="Grid.php"><font size="9">Grid Designs</font></a>
+<a href="Reflections.php"><font size="9">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"><font size="9">Vid Certificates</font></a>
 </body>
 </html>
