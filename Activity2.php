@@ -15,7 +15,6 @@
 
 
 </head>
-<body style="background-color:Black;">
 <style>
 body {
   background-image: url('FATE.jpg');
