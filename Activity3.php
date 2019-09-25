@@ -14,7 +14,7 @@
 </head>
   <style>
 body {
-  background-image: url('rwby.jpg');
+  background-image: url('Bord.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -54,6 +54,6 @@ in each elevator to allowing each person to connect and pass the time more effic
 <a href="Activity-7.php"><font size="5">Invitation</font></a>
 <a href="Grid.php"><font size="5">Grid Designs</font></a>
 <a href="Reflections.php"><font size="5">Reflections</font></a>
-<a href="UX-DESIGN-CERTIFICATES.php"><font size="5">style="color:RosyBrown;"Vid Certificates</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php" style="color:RosyBrown;"><font size="5">Vid Certificates</font></a>
 </body>
 </html>
