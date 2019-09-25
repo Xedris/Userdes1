@@ -3,8 +3,8 @@
 <head>
 <a href="index.php">HOMEPAGE</a>
 <a href="LABWORK1_Fortuno.php">My Labwork 1</a>
-<a href="Activity2.php">My Favorite Apps</a>
 <a href="Reflections.php">Reflections</a>
+<a href="Activity2.php">My Favorite Apps</a>
 <a href="Activity3.php">1000 Floor Elevator</a>
 <a href="Activity-6.php">Persona</a>
 <a href="Activity-7.php">Invitation</a>
