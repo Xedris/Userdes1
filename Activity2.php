@@ -19,6 +19,8 @@
 body {
   background-image: url('FATE.jpg');
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 </style>
 <h1 style="color:Lime;"> 1st application</h1>
