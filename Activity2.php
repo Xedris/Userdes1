@@ -64,6 +64,6 @@ interested me because it isn’t something normally seen.</font></p5><br>
 <a href="Activity-7.php"style="color:White;"><font size="5">Invitation</font></a>
 <a href="Grid.php"style="color:White;"><font size="5">Grid Designs</font></a>
 <a href="Reflections.php"style="color:White;"><font size="5">Reflections</font></a>
-<a href="UX-DESIGN-CERTIFICATES.php"style="color:Black;"><font size="5">Vid Certificates</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="5">Vid Certificates</font></a>
 </body>
 </html>
