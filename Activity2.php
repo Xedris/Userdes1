@@ -20,7 +20,7 @@
 <p1 style="color:Lime;"> I have five favorite applications, the first would have to be game master 5 because it’s the main
 tool I use when I play with my friends. I like using this app because it has all the tools I need to create
 and control our DnD games. It has all the items and rules already installed in it and it allows us to keep
-track of our own characters as well.</p1>
+track of our own characters as well.</p1><br>
   <p7><img src="GM5.jpg" alt="You Are Hereby" style="width:450px;height:400px;"></p7>
 
 <h1 style="color:Chartreuse ;"> 2nd application</h1>
