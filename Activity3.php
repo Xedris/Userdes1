@@ -12,6 +12,7 @@
 <a href="Reflections.php"><font size="5">Reflections</font></a>
 <a href="UX-DESIGN-CERTIFICATES.php"><font size="5">Vid Certificates</font></a>
 </head>
+  <style>
 body {
   background-image: url('rwby.jpg');
   background-repeat: no-repeat;
