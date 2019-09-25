@@ -16,6 +16,12 @@
 
 </head>
 <body style="background-color:Black;">
+<style>
+body {
+  background-image: url('FATE.jpg');
+  background-repeat: no-repeat;
+}
+</style>
 <h1 style="color:Lime;"> 1st application</h1>
 <p1 style="color:Lime;"> I have five favorite applications, the first would have to be game master 5 because it’s the main
 tool I use when I play with my friends. I like using this app because it has all the tools I need to create
