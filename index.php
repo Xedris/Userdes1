@@ -1,25 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-<a href="LABWORK1_Fortuno.php">My Labwork 1</a>
-<a href="new-2.php">My Likes and dislikes </a>
-<a href="Activity2.php">My Favorite apps</a>
-  
-<a href="Activity3.php">1000 Floor Elevator</a>
-<a href="Activity-6.php">Persona</a>
-<a href="Activity-7.php">Invitation</a>
-<a href="Grid.php">Grid Designs</a>
-<a href="Reflections.php">Reflections</a>
-<a href="UX-DESIGN-CERTIFICATES.php">Vid Certificates</a>
-<style>
-
-<body background="70271672_10220712360306752_3363438496369868800_o.jpg">
-h1   {color: blue;}
-p    {color: lightskyblue;}
-</style>
-
+<a href="index.php"style="color:Black;"><font size="5">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:Black;"><font size="5">My Likes and dislikes</font></a>
+<a href="Activity2.php"style="color:Black;">My Favorite apps</a>
+<a href="LABWORK1_Fortuno.php"style="color:Black;"><font size="5">My Labwork 1</font></a>
+<a href="Activity3.php"php"style="color:Black;"><font size="5">1000 Floor Elevator</font></a>
+<a href="Activity-6.php"style="color:Black;"><font size="5">Invitation</font></a>                                                              
+<a href="Activity-7.php"style="color:Black;"><font size="5">Invitation</font></a>
+<a href="Grid.php"style="color:Black;"><font size="5">Grid Designs</font></a>
+<a href="Reflections.php"style="color:Black;"><font size="5">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:Black;"><font size="5">Vid Certificates</font></a>
 </head>
-<body >
+<style>
+body {
+  background-image: url('Satanael.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
 <h1>FORTUNO, ADRIAN CHRISTIAN O</h1>
 <P>Hi there, names Adrian and this is a short Bio about me and what I am. I just recently turned 20 last month on the 18th of june and it has been a weird 20 years of life. I've never much fit in with regular people, I've always weirded them out with the stuff I like since it's not something that's normal for them.</P>
 
