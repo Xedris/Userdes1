@@ -2,17 +2,24 @@
 <html>
 <head>
   <title><b> Personas </b> </title>
-<a href="index.php">HOMEPAGE</a>
-<a href="new-2.php">My Likes and dislikes</a>
-<a href="LABWORK1_Fortuno.php">My Labwork 1</a>
-<a href="Reflections.php">Reflections</a>
-<a href="Activity3.php">1000 Floor Elevator</a>
-<a href="Activity-7.php">Invitation</a>
-<a href="UX-DESIGN-CERTIFICATES.php">Vid Certificates</a>
-<a href="Grid.php">Grid Designs</a>
+<a href="index.php"style="color:Black;"><font size="5">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:Black;"><font size="5">My Likes and dislikes</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:Black;"><font size="5">My Labwork 1</font></a>
+<a href="Activity3.php"php"style="color:Black;"><font size="5">1000 Floor Elevator</font></a>
+<a href="Activity-7.php"style="color:Black;"><font size="5">Invitation</font></a>
+<a href="Grid.php"style="color:Black;"><font size="5">Grid Designs</font></a>
+<a href="Reflections.php"style="color:Black;"><font size="5">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:Black;"><font size="5">Vid Certificates</font></a>
 
 </head>
-<body background="Satanael.jpg">
+<style>
+body {
+  background-image: url('Satanael.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
   <h1> PERSONA!! </h1>
 <h1 style="color:Lime;"> Persona 1</h1>
 <p1 style="color:Lime;"> Dwayne is a student here in Asia Pacific College. He spends lots of his time working on his projects in 
