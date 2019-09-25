@@ -4,13 +4,13 @@
 <a href="LABWORK1_Fortuno.php">My Labwork 1</a>
 <a href="new-2.php">My Likes and dislikes </a>
 <a href="Activity2.php">My Favorite apps</a>
-<a href="Reflections.php">Reflections</a>  
+  
 <a href="Activity3.php">1000 Floor Elevator</a>
 <a href="Activity-6.php">Persona</a>
 <a href="Activity-7.php">Invitation</a>
-<a href="UX-DESIGN-CERTIFICATES.php">Vid Certificates</a>
 <a href="Grid.php">Grid Designs</a>
-
+<a href="Reflections.php">Reflections</a>
+<a href="UX-DESIGN-CERTIFICATES.php">Vid Certificates</a>
 <style>
 
 <body background="70271672_10220712360306752_3363438496369868800_o.jpg">
