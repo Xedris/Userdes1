@@ -2,16 +2,16 @@
 <html>
 <head>
 <title><b> My Favorite Applications </b> </title>
-<a href="index.php"><font size="5">HOMEPAGE</font></a>
-<a href="new-2.php"><font size="5">My Likes and dislikes</font></a>
-<a href="LABWORK1_Fortuno.php"><font size="5">My Labwork 1</font></a>
+<a href="index.php"style="color:Black;"><font size="5">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:Black;"><font size="5">My Likes and dislikes</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:Black;"><font size="5">My Labwork 1</font></a>
 
-<a href="Activity3.php"><font size="5">1000 Floor Elevator</font></a>
-<a href="Activity-6.php"><font size="5">Persona</font></a>
-<a href="Activity-7.php"><font size="5">Invitation</font></a>
-<a href="Grid.php"><font size="5">Grid Designs</font></a>
-<a href="Reflections.php"><font size="5">Reflections</font></a>
-<a href="UX-DESIGN-CERTIFICATES.php"><font size="5">Vid Certificates</font></a>
+<a href="Activity3.php"style="color:Black;"><font size="5">1000 Floor Elevator</font></a>
+<a href="Activity-6.php"style="color:Black;"><font size="5">Persona</font></a>
+<a href="Activity-7.php"style="color:Black;"><font size="5">Invitation</font></a>
+<a href="Grid.php"style="color:Black;"><font size="5">Grid Designs</font></a>
+<a href="Reflections.php"style="color:Black;"><font size="5">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:Black;"><font size="5">Vid Certificates</font></a>
 
 
 </head>
@@ -55,15 +55,15 @@ have to plan your team and how to use them to their fullest. I also love the art
 game because they have all their own distinct way of looking. The story is also something that has
 interested me because it isn’t something normally seen.</font></p5><br>
  <p7><img src="FATE.jpg" alt="You Are Hereby" style="width:470px;height:400px;"></p7><br>
-<a href="index.php"><font size="5">HOMEPAGE</font></a>
-<a href="new-2.php"><font size="5">My Likes and dislikes</font></a>
-<a href="LABWORK1_Fortuno.php"><font size="5">My Labwork 1</font></a>
+<a href="index.php"style="color:Black;"><font size="5">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:Black;"><font size="5">My Likes and dislikes</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:Black;"><font size="5">My Labwork 1</font></a>
 
-<a href="Activity3.php"><font size="5">1000 Floor Elevator</font></a>
-<a href="Activity-6.php"><font size="5">Persona</font></a>
-<a href="Activity-7.php"><font size="5">Invitation</font></a>
-<a href="Grid.php"><font size="5">Grid Designs</font></a>
-<a href="Reflections.php"><font size="5">Reflections</font></a>
-<a href="UX-DESIGN-CERTIFICATES.php"><font size="5">Vid Certificates</font></a>
+<a href="Activity3.php"style="color:Black;"><font size="5">1000 Floor Elevator</font></a>
+<a href="Activity-6.php"style="color:Black;"><font size="5">Persona</font></a>
+<a href="Activity-7.php"style="color:Black;"><font size="5">Invitation</font></a>
+<a href="Grid.php"style="color:Black;"><font size="5">Grid Designs</font></a>
+<a href="Reflections.php"style="color:Black;"><font size="5">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:Black;"><font size="5">Vid Certificates</font></a>
 </body>
 </html>
