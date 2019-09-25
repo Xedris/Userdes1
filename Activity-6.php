@@ -55,7 +55,7 @@ She informs Isaac, who is one of the head moderators of the room. Isaac, who is 
    regarding the matter. He then finds out that Dwayne had mistakenly dropped the controller when heading out, but didn’t think the 
    damage too severe. Seeing the case, Dwayne makes the appropriate payments for repairs.
                                        </font>
-  </p3>
+  </p3><br>
   <h7><img src="Persona 3.jpg" alt="Mara" width="500" height="600"></h7>
 </body>
 </html>
