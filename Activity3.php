@@ -14,7 +14,7 @@
 </head>
   <style>
 body {
-  background-image: url('Bord.jpg');
+  background-image: url('yang.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
