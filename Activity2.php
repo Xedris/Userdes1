@@ -17,7 +17,7 @@
 </head>
 <style>
 body {
-  background-image: url('FATE.jpg');
+  background-image: url('kiln.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
