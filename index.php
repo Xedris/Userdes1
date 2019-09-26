@@ -15,10 +15,10 @@
 </head>
 <style>
 body {
-  background-image: url('Satanael.jpg');
+  background-image: url('MH.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100% 100%;
+  background-size: Cover;
 }
 </style>
 <h1>FORTUNO, ADRIAN CHRISTIAN O</h1>
@@ -26,7 +26,7 @@ body {
                  of june and it has been a weird 20 years of life. I've never much fit in with regular people, I've always weirded them 
                  out with the stuff I like since it's not something that's normal for them. I'm not what most people would call
                  popular but I'm quite fine with that anyway, I dont like the spotlight much in most cases so anonymity is nice for me</font></P><br>
-                 <img src="aids.jpg" alt="You Are Hereby">
+                 <img src="aids.jpg" alt="You Are Hereby" width="400" height="500">
 
 
 
