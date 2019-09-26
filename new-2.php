@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<a href="index.php">HOMEPAGE</a>
-<a href="LABWORK1_Fortuno.php">My Labwork 1</a>
-<a href="Reflections.php">Reflections</a>
-<a href="Activity2.php">My Favorite Apps</a>
-<a href="Activity3.php">1000 Floor Elevator</a>
-<a href="Activity-6.php">Persona</a>
-<a href="Activity-7.php">Invitation</a>
-<a href="Grid.php">Grid Designs</a>
-<a href="UX-DESIGN-CERTIFICATES.php">Vid Certificates</a>
+<a href="index.php"style="color:Black;"><font size="4">HOMEPAGE</font></a>
+<a href="Activity2.php"style="color:Black;"><font size="4">My Favorite apps</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:Black;"><font size="4">My Labwork 1</font></a>
+<a href="Activity3.php"style="color:Black;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity4.php"style="color:Black;"><font size="4">Need finding</font></a>                                                            
+<a href="Activity-6.php"style="color:Black;"><font size="4">Persona</font></a>                                                              
+<a href="Activity-7.php"style="color:Black;"><font size="4">Invitation</font></a>
+<a href="Grid.php"style="color:Black;"><font size="4">Grid Designs</font></a>
+<a href="Reflections.php"style="color:Black;"><font size="4">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:Black;"><font size="4">Vid Certificates</font></a>
 <style>
 body {background-color: Black;}
 h1   {color: blue;}
@@ -108,5 +109,17 @@ p    {color: red;}
      </div>
    </div>
 </div>
+ <br>
+    <br>
+    <a href="index.php"style="color:Black;"><font size="4">HOMEPAGE</font></a>
+<a href="Activity2.php"style="color:Black;"><font size="4">My Favorite apps</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:Black;"><font size="4">My Labwork 1</font></a>
+<a href="Activity3.php"style="color:Black;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity4.php"style="color:Black;"><font size="4">Need finding</font></a>                                                            
+<a href="Activity-6.php"style="color:Black;"><font size="4">Persona</font></a>                                                              
+<a href="Activity-7.php"style="color:Black;"><font size="4">Invitation</font></a>
+<a href="Grid.php"style="color:Black;"><font size="4">Grid Designs</font></a>
+<a href="Reflections.php"style="color:Black;"><font size="4">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:Black;"><font size="4">Vid Certificates</font></a>
 </body>
 </html>
