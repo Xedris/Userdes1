@@ -2,16 +2,17 @@
 <html>
 <head>
 <title><b>Grid Designs</b> </title>
-<a href="index.php"style="color:Black;"><font size="4">HOMEPAGE</font></a>
-<a href="new-2.php"style="color:Black;"><font size="4">My Likes and dislikes</font></a>
-<a href="Activity2.php"style="color:Black;"><font size="4">My Favorite apps</font></a>
-<a href="LABWORK1_Fortuno.php"style="color:Black;"><font size="4">My Labwork 1</font></a>
-<a href="Activity3.php"php"style="color:Black;"><font size="4">1000 Floor Elevator</font></a>
-<a href="Activity-6.php"style="color:Black;"><font size="4">Persona</font></a>                                                              
-<a href="Activity-7.php"style="color:Black;"><font size="4">Invitation</font></a>
+<a href="index.php"style="color:White;"><font size="4">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
+<a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
+<a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity4.php"style="color:White;"><font size="4">Need finding</font></a>                                                            
+<a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
+<a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
 
-<a href="Reflections.php"style="color:Black;"><font size="4">Reflections</font></a>
-<a href="UX-DESIGN-CERTIFICATES.php"style="color:Black;"><font size="4">Vid Certificates</font></a>
+<a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="4">Vid Certificates</font></a>
 </head>
 <body>
 <h1>3x3 Foundations</h1>
@@ -26,16 +27,17 @@
 <h1>FATE GRAND ORDER</h1>
 <p2><font size="5"> I chose Fate Grand Order for the pictures because it is one of my favorite franchises and because the game is fun to play.
   </font></p2>
-<p><img src="4x4 pictures.JPG" alt="FATE GRAND ORDER"></p>
- <a href="index.php"style="color:Black;"><font size="4">HOMEPAGE</font></a>
-<a href="new-2.php"style="color:Black;"><font size="4">My Likes and dislikes</font></a>
-<a href="Activity2.php"style="color:Black;"><font size="4">My Favorite apps</font></a>
-<a href="LABWORK1_Fortuno.php"style="color:Black;"><font size="4">My Labwork 1</font></a>
-<a href="Activity3.php"php"style="color:Black;"><font size="4">1000 Floor Elevator</font></a>
-<a href="Activity-6.php"style="color:Black;"><font size="4">Persona</font></a>                                                              
-<a href="Activity-7.php"style="color:Black;"><font size="4">Invitation</font></a>
+<p><img src="4x4 pictures.JPG" alt="FATE GRAND ORDER"></p><br> <br>
+<a href="index.php"style="color:White;"><font size="4">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
+<a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
+<a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity4.php"style="color:White;"><font size="4">Need finding</font></a>                                                            
+<a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
+<a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
 
-<a href="Reflections.php"style="color:Black;"><font size="4">Reflections</font></a>
-<a href="UX-DESIGN-CERTIFICATES.php"style="color:Black;"><font size="4">Vid Certificates</font></a>                                                    
+<a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="4">Vid Certificates</font></a>                                             
 </body>
 </html>
