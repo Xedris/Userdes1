@@ -2,16 +2,16 @@
 <html>
 <head>
 <title><b> JUST CALL ME AIDS </b> </title>
-<a href="index.php">HOMEPAGE</a>
-<a href="new-2.php">My Likes and dislikes</a>
-<a href="Activity2.php">My Favorite Apps</a>
-
-<a href="Activity3.php">1000 Floor Elevator</a>
-<a href="Activity-6.php">Persona</a>
-<a href="Activity-7.php">Invitation</a>
-<a href="Grid.php">Grid Designs</a>
-<a href="Reflections.php">Reflections</a>
-<a href="UX-DESIGN-CERTIFICATES.php">Vid Certificates</a>
+<a href="index.php"style="color:White;"><font size="4">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
+<a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
+<a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity4.php"style="color:White;"><font size="4">Need finding</font></a>                                                            
+<a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
+<a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
+<a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
+<a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="4">Vid Certificates</font></a>
 </head>
 <body style="background-color:Black;">
 <h1 style="color:Lime;"> Just call me Aids</h1>
@@ -31,26 +31,25 @@ but then I started to get used to it until it became my nickname till now. It's 
 
 
 
-<h5>Emails</h5>
 <p5 style="color:Lightsalmon">gmail = aids42no@gmail.com</p5>
-<h5>Emails</h5>
-<p7 style="color:Lightsalmon">Trello- @adrianfortuno</p7>
-<h5>Emails</h5>
 <p8 style="color:Lightsalmon">Github- www.github.com/Xedris</p8>
-<h5>Emails</h5>
 <p9 style="color:Lightsalmon">APCemail- aofortuno@student.apc.edu.ph</p9>
-<h5>Emails</h5>
 <p10 style="color:Lightsalmon">Google-aids42no@gmail.com</p10>
-<h5>Emails</h5>
 <p11 style="color:Lightsalmon">Codeacademy- @Adrian Fortuno</p11>
-<h5>Emails</h5>
 <p12 style="color:Lightsalmon">https://www.khanacademy.org/Adrian Fortuno</p12>
-<h5>Emails</h5>
-<p13 style="color:Lightsalmon">https://www.duolingo.com/AdrianOFor581585</p13>
-<h5>Emails</h5>
-<p14style="color:Lightsalmon">Facebook- Adrian Christian Fortuno</p14>
+<p14style="color:Lightsalmon">Facebook- Adrian Christian Fortuno</p14><br><br>
 
   
-<a href="new-2.php">My Likes and dislikes</a>
+<a href="index.php"style="color:White;"><font size="4">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
+<a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
+
+<a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity4.php"style="color:White;"><font size="4">Need finding</font></a>                                                            
+<a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
+<a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
+<a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
+<a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="4">Vid Certificates</font></a>
 </body>
 </html>
