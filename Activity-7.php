@@ -6,7 +6,7 @@
 <a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
 <a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
 <a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
-<a href="Activity3.php"php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
 <a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
 
 <a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
@@ -24,7 +24,7 @@ body {
 </style>           
 <h1>You are Hereby Invited</h1>
 <img src="Activity.7.jpg" alt="You Are Hereby"><br>
-  <p> <b>How can we improve this?</b> <br>
+  <p><font size="6"> <b>How can we improve this?</b> <br>
     a. One of the things that you can do to improve the invitation is to get rid of word<br>
     "delectable" from the wording since its used to describe food more instead of an event<br>
     b. You can also specify the location more since "The Pad" is very vague and could be a location<br>
@@ -33,13 +33,13 @@ body {
     <br>
     2. What is the Objective Function?<br>
     The Objective Function is to be an invitation to close friends or colleagues to an after dinner part<br>
-    hosted by Robert and Alexandria</p><br>
+    hosted by Robert and Alexandria</font></p><br>
                                                              
  <a href="index.php"style="color:White;"><font size="4">HOMEPAGE</font></a>
 <a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
 <a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
 <a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
-<a href="Activity3.php"php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
 <a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
 <a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
 <a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
