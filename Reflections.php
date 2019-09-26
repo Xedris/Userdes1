@@ -38,7 +38,7 @@ something since it had no user manual to use but once we got it to work it was a
 since I only cared about if it was useful or not. Even now I only care if the UI is simple enough to use and navigate for me, I prefer
   a UI that is this way because simplicity is always the best when creating a navigation for public use. This is because it is easy to get
   confused when the UI is packed with large amounts of info and items and it gets bogged down with to many add-ons.</font></p4><br>
-<img src="QUIZ 1.JPG" alt="You Are Hereby" style="width:500px;height:600px;">
+<img src="QUIZ 1.JPG" alt="You Are Hereby" style="width:300px;height:400px;">
   
 <h1 style="color:MediumOrchid;"> Reflection 5</h1>
 <p5 style="color:MediumOrchid;"><font size="5">The entire SOCIT fest in its entirety can be summed up for me in one word and that is disappointing. 
