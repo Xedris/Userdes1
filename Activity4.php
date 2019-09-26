@@ -7,14 +7,14 @@
 <a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
 <a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
 <a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
-<a href="Activity4.php"style="color:White;"><font size="4">Need finding</font></a>                                                            
+                                                        
 <a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
 <a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
 <a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
 <a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="4">Vid Certificates</font></a>
 </head>
 <body style="background-color:Black;">
-<h1 style="color:DarCyan;"> Need Finding</h1>
+<h1 style="color:DarkCyan;"> Need Finding</h1>
 <p1 style="color:DarkGoldenRod;"><font size="5"> Need finding from i can tell is just finding the specific needs for your innovation. It helps keep
 track of your goal and what specifics are needed to answer its problems.<br>
 The topic we chose for our project is a Reservation system for the new gaming laboratory of APC. At the moment its still in its infancy stage
@@ -32,10 +32,10 @@ to the students and professors who will be using the equipment in the room.</fon
 <a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
 <a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
 <a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
-<a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
-<a href="Activity4.php"style="color:White;"><font size="4">Need finding</font></a>                                                            
+<a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>                                                         
 <a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
 <a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
+<a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
 <a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
 <a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="4">Vid Certificates</font></a>
 </body>
