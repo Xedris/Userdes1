@@ -2,14 +2,15 @@
 <html>
 <head>
 <title><b> UX CERTS </b> </title>
-<a href="index.php">HOMEPAGE</a>
-<a href="new-2.php">My Likes and dislikes</a>
-<a href="LABWORK1_Fortuno.php">My Labwork 1</a>
-<a href="Reflections.php">Reflections</a>
-<a href="Activity3.php">1000 Floor Elevator</a>
-<a href="Activity-6.php">Persona</a>
-<a href="Activity-7.php">Invitation</a>
-<a href="Grid.php">Grid Designs</a>
+<a href="index.php"style="color:Black;"><font size="4">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:Black;"><font size="4">My Likes and dislikes</font></a>
+<a href="Activity2.php"style="color:Black;"><font size="4">My Favorite apps</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:Black;"><font size="4">My Labwork 1</font></a>
+<a href="Activity3.php"php"style="color:Black;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity-6.php"style="color:Black;"><font size="4">Persona</font></a>                                                              
+<a href="Activity-7.php"style="color:Black;"><font size="4">Invitation</font></a>
+<a href="Grid.php"style="color:Black;"><font size="4">Grid Designs</font></a>
+<a href="Reflections.php"style="color:Black;"><font size="4">Reflections</font></a>
 </head>
 <h1>UX FOUNDATIONS: CONTENT STRATEGY</h1>
 <p2><img src="cert 1.JPG" alt="UX FOUNDATIONS: CONTENT STRATEGY"></p2>
