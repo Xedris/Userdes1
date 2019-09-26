@@ -22,7 +22,7 @@ body {
 }
 </style>
 <h1>FORTUNO, ADRIAN CHRISTIAN O</h1>
-<P><style="color:Indigo;" font size="5">Hi there, names Adrian and this is a short Bio about me and what I am. I just recently turned 20 on the 18th 
+<P style="color:Indigo;"><font size="5">Hi there, names Adrian and this is a short Bio about me and what I am. I just recently turned 20 on the 18th 
                  of june and it has been a weird 20 years of life. I've never much fit in with regular people, I've always weirded them 
                  out with the stuff I like since it's not something that's normal for them. I'm not what most people would call
                  popular but I'm quite fine with that anyway, I dont like the spotlight much in most cases so anonymity is nice for me</font></P><br>
