@@ -2,15 +2,16 @@
 <html>
 <head>
 <title><b> 1000 ELEVATORS!!!! </b> </title>
-<a href="index.php"style="color:Black;"><font size="5">HOMEPAGE</font></a>
-<a href="new-2.php"style="color:Black;"><font size="5">My Likes and dislikes</font></a>
-<a href="LABWORK1_Fortuno.php"style="color:Black;"><font size="5">My Labwork 1</font></a>
-<a href="Activity3.php"style="color:Black;"><font size="5">My Favorite Apps</font></a>
-<a href="Activity-6.php"style="color:Black;"><font size="5">Persona</font></a>
-<a href="Activity-7.php"style="color:Black;"><font size="5">Invitation</font></a>
-<a href="Grid.php"style="color:Black;"><font size="5">Grid Designs</font></a>
-<a href="Reflections.php"style="color:Black;"><font size="5">Reflections</font></a>
-<a href="UX-DESIGN-CERTIFICATES.php"style="color:Black;"><font size="5">Vid Certificates</font></a>
+<a href="index.php"style="color:White;"><font size="4">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
+<a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
+<a href="Activity4.php"style="color:White;"><font size="4">Need finding</font></a>                                                            
+<a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
+<a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
+<a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
+<a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="4">Vid Certificates</font></a>
 </head>
   <style>
 body {
@@ -45,14 +46,15 @@ designated area. There would also be a first aid kit put into each corner of the
 time there would be music playing inside the elevator for each person to use, and most importantly there would be a wifi router installed 
 in each elevator to allowing each person to connect and pass the time more efficiently especially for the higher most floors where cell
   signal would start to disappear</font></p3><br>
-<a href="index.php"style="color:Black;"><font size="5">HOMEPAGE</font></a>
-<a href="new-2.php"style="color:Black;"><font size="5">My Likes and dislikes</font></a>
-<a href="LABWORK1_Fortuno.php"style="color:Black;"><font size="5">My Labwork 1</font></a>
-
-<a href="Activity-6.php"style="color:Black;"><font size="5">Persona</font></a>
-<a href="Activity-7.php"style="color:Black;"><font size="5">Invitation</font></a>
-<a href="Grid.php"style="color:Black;"><font size="5">Grid Designs</font></a>
-<a href="Reflections.php"style="color:Black;"><font size="5">Reflections</font></a>
-<a href="UX-DESIGN-CERTIFICATES.php" style="color:Black;"><font size="5">Vid Certificates</font></a>
+<a href="index.php"style="color:White;"><font size="4">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
+<a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
+<a href="Activity4.php"style="color:White;"><font size="4">Need finding</font></a>                                                            
+<a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
+<a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
+<a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
+<a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="4">Vid Certificates</font></a>
 </body>
 </html>
