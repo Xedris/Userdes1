@@ -8,7 +8,7 @@
 <a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
 <a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
 <a href="Activity4.php"style="color:White;"><font size="4">Need finding</font></a>                                                            
-<a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
+                                                             
 <a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
 <a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
 <a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
@@ -66,7 +66,7 @@ She informs Isaac, who is one of the head moderators of the room. Isaac, who is 
 <a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
 <a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
 <a href="Activity4.php"style="color:White;"><font size="4">Need finding</font></a>                                                            
-<a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
+                                                             
 <a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
 <a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
 <a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
