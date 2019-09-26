@@ -24,7 +24,7 @@ body {
 </style>           
 <h1>You are Hereby Invited</h1>
 <img src="Activity.7.jpg" alt="You Are Hereby"><br>
-  <p style="color:DarkKhaki;"><font size="6"> <b>How can we improve this?</b> <br>
+  <p style="color:Crimson;"><font size="6"> <b>How can we improve this?</b> <br>
     a. One of the things that you can do to improve the invitation is to get rid of word<br>
     "delectable" from the wording since its used to describe food more instead of an event<br>
     b. You can also specify the location more since "The Pad" is very vague and could be a location<br>
