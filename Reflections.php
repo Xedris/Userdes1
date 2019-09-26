@@ -6,7 +6,8 @@
 <a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
 <a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
 <a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
-<a href="Activity3.php"php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity4.php"style="color:White;"><font size="4">Need finding</font></a>                                                            
 <a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
 <a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
 <a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
@@ -68,11 +69,12 @@ since I only cared about if it was useful or not. Even now I only care if the UI
   either always late or absent to class and that he does not help us in the Project and he was absent during the presentation and 
                                               if he gets a high grade even when he was absent there I will be really mad about that.</font></p6><br>
 
-  <a href="index.php"style="color:White;"><font size="4">HOMEPAGE</font></a>
+<a href="index.php"style="color:White;"><font size="4">HOMEPAGE</font></a>
 <a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
 <a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
 <a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
-<a href="Activity3.php"php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity4.php"style="color:White;"><font size="4">Need finding</font></a>                                                            
 <a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
 <a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
 <a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
