@@ -2,16 +2,16 @@
 <html>
 <head>
 <title><b> INVITATION</b> </title>
-<a href="index.php"style="color:White;"><font size="4">HOMEPAGE</font></a>
-<a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
-<a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
-<a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
-<a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
-<a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
+<a href="index.php"style="color:White;"><font size="5">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:White;"><font size="5">My Likes and dislikes</font></a>
+<a href="Activity2.php"style="color:White;"><font size="5">My Favorite apps</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:White;"><font size="5">My Labwork 1</font></a>
+<a href="Activity3.php"style="color:White;"><font size="5">1000 Floor Elevator</font></a>
+<a href="Activity-6.php"style="color:White;"><font size="5">Persona</font></a>                                                              
 
-<a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
-<a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
-<a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="4">Vid Certificates</font></a>
+<a href="Grid.php"style="color:White;"><font size="5">Grid Designs</font></a>
+<a href="Reflections.php"style="color:White;"><font size="5">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="5">Vid Certificates</font></a>
 
 </head>
  <style>
@@ -35,16 +35,16 @@ body {
     The Objective Function is to be an invitation to close friends or colleagues to an after dinner part<br>
     hosted by Robert and Alexandria</font></p><br>
                                                              
- <a href="index.php"style="color:White;"><font size="4">HOMEPAGE</font></a>
-<a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
-<a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
-<a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
-<a href="Activity3.php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>
-<a href="Activity-6.php"style="color:White;"><font size="4">Persona</font></a>                                                              
-<a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
-<a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
-<a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
-<a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="4">Vid Certificates</font></a>
+ <a href="index.php"style="color:Black;"><font size="4">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:Black;"><font size="4">My Likes and dislikes</font></a>
+<a href="Activity2.php"style="color:Black;"><font size="4">My Favorite apps</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:Black;"><font size="4">My Labwork 1</font></a>
+<a href="Activity3.php"style="color:Black;"><font size="4">1000 Floor Elevator</font></a>
+<a href="Activity-6.php"style="color:Black;"><font size="4">Persona</font></a>                                                              
+<a href="Activity-7.php"style="color:Black;"><font size="4">Invitation</font></a>
+<a href="Grid.php"style="color:Black;"><font size="4">Grid Designs</font></a>
+<a href="Reflections.php"style="color:Black;"><font size="4">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:Black;"><font size="4">Vid Certificates</font></a>
     
 </body>
 </html>
