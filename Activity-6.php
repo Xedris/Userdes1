@@ -2,14 +2,15 @@
 <html>
 <head>
   <title><b> Personas </b> </title>
-<a href="index.php"style="color:Black;"><font size="5">HOMEPAGE</font></a>
-<a href="new-2.php"style="color:Black;"><font size="5">My Likes and dislikes</font></a>
-<a href="LABWORK1_Fortuno.php"style="color:Black;"><font size="5">My Labwork 1</font></a>
-<a href="Activity3.php"php"style="color:Black;"><font size="5">1000 Floor Elevator</font></a>
-<a href="Activity-7.php"style="color:Black;"><font size="5">Invitation</font></a>
-<a href="Grid.php"style="color:Black;"><font size="5">Grid Designs</font></a>
-<a href="Reflections.php"style="color:Black;"><font size="5">Reflections</font></a>
-<a href="UX-DESIGN-CERTIFICATES.php"style="color:Black;"><font size="5">Vid Certificates</font></a>
+<a href="index.php"style="color:White;"><font size="4">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
+<a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
+<a href="Activity3.php"php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>                                                              
+<a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
+<a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
+<a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="4">Vid Certificates</font></a>
 
 </head>
 <style>
@@ -56,6 +57,15 @@ She informs Isaac, who is one of the head moderators of the room. Isaac, who is 
    damage too severe. Seeing the case, Dwayne makes the appropriate payments for repairs.
                                        </font>
   </p3><br>
-  <h7><img src="Persona 3.jpg" alt="Mara" width="500" height="600"></h7>
+  <h7><img src="Persona 3.jpg" alt="Mara" width="500" height="600"></h7><br>
+     <a href="index.php"style="color:White;"><font size="4">HOMEPAGE</font></a>
+<a href="new-2.php"style="color:White;"><font size="4">My Likes and dislikes</font></a>
+<a href="Activity2.php"style="color:White;"><font size="4">My Favorite apps</font></a>
+<a href="LABWORK1_Fortuno.php"style="color:White;"><font size="4">My Labwork 1</font></a>
+<a href="Activity3.php"php"style="color:White;"><font size="4">1000 Floor Elevator</font></a>                                                             
+<a href="Activity-7.php"style="color:White;"><font size="4">Invitation</font></a>
+<a href="Grid.php"style="color:White;"><font size="4">Grid Designs</font></a>
+<a href="Reflections.php"style="color:White;"><font size="4">Reflections</font></a>
+<a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="4">Vid Certificates</font></a>                                                             
 </body>
 </html>
