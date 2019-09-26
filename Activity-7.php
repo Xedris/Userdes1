@@ -19,7 +19,7 @@ body {
   background-image: url('Bord.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100% 100%;
+  background-size: Cover;
 }
 </style>           
 <h1>You are Hereby Invited</h1>
