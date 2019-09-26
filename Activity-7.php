@@ -14,6 +14,14 @@
 <a href="UX-DESIGN-CERTIFICATES.php"style="color:White;"><font size="4">Vid Certificates</font></a>
 
 </head>
+ <style>
+body {
+  background-image: url('Bord.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>           
 <h1>You are Hereby Invited</h1>
 <img src="Activity.7.jpg" alt="You Are Hereby"><br>
   <p> <b>How can we improve this?</b> <br>
